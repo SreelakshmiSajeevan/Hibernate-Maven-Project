@@ -1,1 +1,1 @@
-# Hibernate-Java-Project
+# Hibernate-Dynamic-Java-Project
